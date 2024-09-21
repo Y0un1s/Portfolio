@@ -64,7 +64,7 @@
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🗂️ Database Management Systems</h2></summary></ul></div>
 <p>
 <a href="https://www.microsoft.com/en-us/sql/"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-27AE60?logo=mssql&logoColor=fff&style=flat"></a>
-<a href="https://www.oracle.com/database/"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-2088FF?logo=oracle&logoColor=fff&style=flat"></a>
+
 <!-- <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-29ABCA?logo=sqlite&logoColor=fff&style=flat"></a>
 <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%233174C0?logo=postgresql&logoColor=fff&style=flat"></a> -->
 </p>
