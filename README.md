@@ -15,23 +15,23 @@
 </a> 
 
 
-- 👾 A dataBASED guru working his way around things.
+-  A dataBASED guru working his way around things.
   
 -  🌍 Based in Egypt.
    
-- 👯 Let's make the world a better place with open source collaborations.
+-  Let's make the world a better place with open source collaborations.
 
-- 💬  Dive into  **`Data Analytics`** **&** **`Data Engineering`** intel with me.
+-   Dive into  **`Data Analytics`** **&** **`Data Engineering`** intel with me.
 
-- 📫 Unlock boundless possibilities at <a href="mailto:ahmedyounisokal@gmail.com" target="_blank">`ahmedyounisokal@gmail.com`</a>
+-  Unlock boundless possibilities at <a href="mailto:ahmedyounisokal@gmail.com" target="_blank">`ahmedyounisokal@gmail.com`</a>
 
 - 📄 Experience <a href= "[https://docs.google.com/document/d/1Ltb0jCiPWnzEqq-5S2j-1yMyYA2XZRls/edit?usp=drive_link&ouid=108498831972120459668&rtpof=true&sd=true](https://docs.google.com/document/d/1NVeweKeHdHMVbQyRytMg2Q9CZKj-YaYZ/edit?usp=drive_link&ouid=108498831972120459668&rtpof=true&sd=true)" target="blank">`resume`</a> that speaks volumes.
   
-- 💪🏼 Fav Quote: "Great Developers never stop learning".
+-  Fav Quote: "Great Developers never stop learning".
   
-- ⚡ Learning something new everyday keps my dopamine levels high.
+-  Learning something new everyday keps my dopamine levels high.
 
-- 👍 Seeking thrilling Volunteer or Internship roles in **`Data Analytics`** **&** **`Business Intellegence`** **&** **`Data Engineering`** fields .
+-  Seeking thrilling Volunteer or Internship roles in **`Data Analytics`** **&** **`Business Intellegence`** **&** **`Data Engineering`** fields .
 
   <!-- Short Stats -->
 <p align="center">  
