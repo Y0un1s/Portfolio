@@ -59,9 +59,6 @@
 <p>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
-<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-29ABCA?logo=pandas&logoColor=fff&style=flat"></a>
-<a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-%230077B5.svg?&logo=numpy&logoColor=white"></a>
-<a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%232768A2.svg?&logo=matplotlib&logoColor=white"></a>
 </p>
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🗂️ Database Management Systems</h2></summary></ul></div>
