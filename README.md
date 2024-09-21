@@ -119,6 +119,4 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="www.linkedin.com/in/ebrahim-ayman-432a38247" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="discordapp.com/users/hemax10" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> 
-</p>
+<a href="[www.linkedin.com/in/ebrahim-ayman-432a38247](https://www.linkedin.com/in/ahmed-younis-9521642a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
