@@ -107,44 +107,6 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-godz&theme=tokyonight_duo" alt="i-godz" /></p></details>
 
-
-<!-- Github account stats -->
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="i-godz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=i-godz&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-godz&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="i-godz" height="230px"/>
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-<!-- Git profile Trophies -->
-<details><summary> <h3> :trophy: Git Profile Trophies </h3></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-godz&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="i-godz" /></a> </p>
-</details>
-
-
-<!-- My Repositories -->
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-<div>
-  <p align="center">
-    <a href="https://github.com/i-godz/SQL">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=SQL&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/i-godz/LGMVIP-DataScience-Task01">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=LGMVIP-DataScience-Task01&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/i-godz/LGMVIP-DataScience-Task02">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=LGMVIP-DataScience-Task02&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/i-godz/LGMVIP-DataScience-Task03">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=LGMVIP-DataScience-Task03&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/i-godz/CodeClause-DataScience-Task01">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-godz&repo=CodeClause-DataScience-Task01&theme=tokyonight" alt="GitHub Stats" /></a></p></div></details>
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
