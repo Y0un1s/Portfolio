@@ -17,7 +17,7 @@
 
 - 👾 A dataBASED guru working his way around things.
   
--  🌍 Based in Menofia.
+-  🌍 Based in Egypt.
    
 - 👯 Let's make the world a better place with open source collaborations.
 
