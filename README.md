@@ -47,6 +47,7 @@
 </div>
 
 <!-- About Section Content -->
+
 <p align="left">
  My journey into the world of data started with a passion for problem-solving and an enthusiasm for understanding how data drives decisions. Starting with SQL, I quickly discovered its power in crafting meaningful insights from raw data. As I delved deeper, I became proficient in using SQL Server for data management and storage strategies.
 
