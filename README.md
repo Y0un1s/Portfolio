@@ -118,5 +118,5 @@
 </div>
 
 <!--icons and links-->
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/ahmed-younis-o" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="50" width="50" /></a>
