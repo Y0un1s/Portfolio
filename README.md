@@ -147,8 +147,12 @@
   </ul>
 </div>
 
-<!--icons and links-->
+<!-- Icons and Links Section -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-younis-o" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="50" width="50" /></a>
-  <a href="mailto:ahmedyounisokal@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="mail" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-younis-o" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4556-9b62-3dbf8639b2e3.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="mailto:ahmedyounisokal@gmail.com" target="_blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1fa58e57a226.png" alt="mail" height="50" width="50" />
+  </a>
 </div>
