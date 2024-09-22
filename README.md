@@ -31,8 +31,6 @@
 
 -  Unlock boundless possibilities at <a href="mailto:ahmedyounisokal@gmail.com" target="_blank">`ahmedyounisokal@gmail.com`</a>
 
-- 📄 Experience <a href="https://docs.google.com/document/d/1NVeweKeHdHMVbQyRytMg2Q9CZKj-YaYZ/edit?usp=drive_link&ouid=108498831972120459668&rtpof=true&sd=true" target="blank">`resume`</a> that speaks volumes.
-
 -  Learning something new every day keeps my dopamine levels high.
 
 -  Seeking thrilling Volunteer or Internship roles in **Data Analytics**, **Business Intelligence**, and **Data Engineering** fields.
