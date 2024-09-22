@@ -75,70 +75,40 @@
 <br>
 
 <!-- Frameworks and Libraries -->
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block">⚛️ Frameworks and Libraries</h2></summary>
-  </ul>
-</div>
-<div align="center">
-  <a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
-</div>
-
-<br>
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">⚛️ Frameworks and Libraries</h2></summary></ul></div>
+<p>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
+<a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
+</p>
 
 <!-- Database Management Systems -->
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block">🗂️ Database Management Systems</h2></summary>
-  </ul>
-</div>
-<div align="center">
-  <a href="https://www.microsoft.com/en-us/sql/"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-27AE60?logo=mssql&logoColor=fff&style=flat"></a>
-  <a href="https://www.microsoft.com/en-us/sql/"><img alt="SSIS" src="https://img.shields.io/badge/SSIS-29ABCA?logo=ssis&logoColor=fff&style=flat"></a>
-</div>
-
-<br>
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🗂️ Database Management Systems</h2></summary></ul></div>
+<p>
+<a href="https://www.microsoft.com/en-us/sql/"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-27AE60?logo=mssql&logoColor=fff&style=flat"></a>
+<a href="https://www.microsoft.com/en-us/sql/"><img alt="SSIS" src="https://img.shields.io/badge/SSIS-29ABCA?logo=ssis&logoColor=fff&style=flat"></a>
+</p>
 
 <!-- Softwares & Other Tools -->
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block">🛠️ Softwares & Other Tools</h2></summary>
-  </ul>
-</div>
-<div align="center">
-  <a href="https://www.microsoft.com/en-us/sql/"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F39D2B?logo=powerbi&logoColor=fff&style=flat"></a>
-  <a href="https://code.visualstudio.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?&logo=visual-studio-code&logoColor=white"></a>
-  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white"></a>
-</div>
-
-<br>
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🛠️ Softwares & Other Tools</h2></summary></ul></div>
+<p>
+<a href="https://www.microsoft.com/en-us/sql/"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F39D2B?logo=powerbi&logoColor=fff&style=flat"></a>
+<a href="https://code.visualstudio.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?&logo=visual-studio-code&logoColor=white"></a>
+<a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white"></a>
+</p>
 
 <!-- Competitive Programming -->
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block">🕹️ Competitive Programming & Problem Solving</h2></summary>
-  </ul>
-</div>
-<div align="center">
-  <a href="https://leetcode.com/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&logo=hackerrank&logoColor=white"></a>
-  <a href="https://sqlzoo.net/"><img alt="SQLZoo" src="https://img.shields.io/badge/SQLZoo-%23FFD700.svg?&logo=sqlzoo&logoColor=black"></a>
-</div>
-
-<br>
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">🕹️ Competitive Programming & Problem Solving</h2></summary></ul></div>
+<p>
+<a href="https://leetcode.com/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=white"></a>
+<a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&logo=hackerrank&logoColor=white"></a>
+<a href="https://sqlzoo.net/"><img alt="SQLZoo" src="https://img.shields.io/badge/SQLZoo-%23FFD700.svg?&logo=sqlzoo&logoColor=black"></a>
+</p>
 
 <!-- Operating Systems -->
-<div id="user-content-toc" align="center">
-  <ul>
-    <summary><h2 style="display: inline-block"> 🐙 Operating Systems</h2></summary>
-  </ul>
-</div>
-<div align="center">
-  <a href="https://www.windows.com/"><img alt="Windows" src="https://img.shields.io/badge/Windows-%23008CBA.svg?&logo=windows&logoColor=white"></a>
-</div>
-
-<br>
+<div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block"> 🐙 Operating Systems</h2></summary></ul></div>
+<p>
+<a href="https://www.windows.com/"><img alt="Windows" src="https://img.shields.io/badge/Windows-%23008CBA.svg?&logo=windows&logoColor=white"></a>
+</p>
 
 <!-- Connect with me -->
 <div id="user-content-toc" align="center">
