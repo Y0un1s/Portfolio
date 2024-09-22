@@ -41,7 +41,7 @@
     <summary style="margin-bottom: 50px;">
       <h1 style="display: inline-block">My Journey into Data</h1>
       <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px">
+        <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="40px">
       </picture>
     </summary>
   </ul>
