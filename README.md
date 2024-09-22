@@ -113,7 +113,7 @@
 <!-- Connect with me -->
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><h1 style="display: inline-block">Let's Connect</h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width ="50"></summary>
+    <summary><h1 style="display: inline-block">Let's Connect</h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width ="20"></summary>
   </ul>
 </div>
 
