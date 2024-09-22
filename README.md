@@ -4,6 +4,8 @@
     <summary><h1 style="display: inline-block">Hello, I'm Younis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></summary>
   </ul>
 </div>
+<!-- Profile Picture -->
+<img src="https://avatars.githubusercontent.com/u/134159137?v=4" alt="Younis Profile Picture" width="200" align="center">
 
 <!-- Hero Typescript Title -->
 <p align="center">
@@ -18,8 +20,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-<!-- Profile Picture -->
-<img src="https://avatars.githubusercontent.com/u/134159137?v=4" alt="Younis Profile Picture" width="200" align="center">
+
 
 -  🌍 Based in Egypt.
   
