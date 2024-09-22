@@ -19,7 +19,7 @@
 </a>
 
 <!-- Profile Picture -->
-<img src="YOUR_PROFILE_PICTURE_URL" alt="Younis Profile Picture" width="200" align="center">
+<img src="(https://github.com/account)" alt="Younis Profile Picture" width="200" align="center">
 
 -  🌍 Based in Egypt.
   
