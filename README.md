@@ -72,8 +72,8 @@ As I continue to expand my knowledge, I’m exploring cloud technologies, partic
 <!-- Frameworks and Libraries -->
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block">⚛️ Frameworks and Libraries</h2></summary></ul></div>
 <p>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 <a href="https://www.sql.org/"><img alt="SQL" src="https://img.shields.io/badge/SQL-27AE60?logo=sql&logoColor=fff&style=flat"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
 </p>
 
 <!-- Database Management Systems -->
