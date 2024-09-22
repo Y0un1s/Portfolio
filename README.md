@@ -25,15 +25,11 @@
   
 -  Transforming Data into Actionable Insights: Expertise in SQL, SQL Server, Data Warehousing, SSIS, and Power BI.
   
--  Let's make the world a better place with open source collaborations.
+-  Dive into **Data Engineering** & **Data Analytics** intel with me.
 
--  Dive into **Data Analytics** & **Data Engineering** intel with me.
+-  ✉️ Unlock boundless possibilities at <a href="mailto:ahmedyounisokal@gmail.com" target="_blank">`ahmedyounisokal@gmail.com`</a>
 
--  Unlock boundless possibilities at <a href="mailto:ahmedyounisokal@gmail.com" target="_blank">`ahmedyounisokal@gmail.com`</a>
-
--  Learning something new every day keeps my dopamine levels high.
-
--  Seeking thrilling Volunteer or Internship roles in **Data Analytics**, **Business Intelligence**, and **Data Engineering** fields.
+-  🌟 Seeking exciting volunteer or internship opportunities in Data Engineering, Data Analytics, and Business Intelligence.
 
 <!-- About Section Title -->
 <div id="user-content-toc">
