@@ -35,6 +35,30 @@
 
 -  Seeking thrilling Volunteer or Internship roles in **Data Analytics**, **Business Intelligence**, and **Data Engineering** fields.
 
+<!-- About Section Title -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary style="margin-bottom: 50px;">
+      <h1 style="display: inline-block">My Journey into Data</h1>
+      <picture>
+        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px">
+      </picture>
+    </summary>
+  </ul>
+</div>
+
+<!-- About Section Content -->
+<p align="left">
+  My journey into the world of data started with a passion for problem-solving and an enthusiasm for understanding how data drives decisions. 
+  Starting with SQL, I quickly discovered its power in crafting meaningful insights from raw data. As I delved deeper, I mastered the use of 
+  SQL Server for data management and storage strategies. <br><br>
+  My skills in SQL Server Integration Services (SSIS) allowed me to handle complex data integrations and transformations efficiently. Soon, I 
+  added Power BI to my toolkit, bringing data to life through dynamic reports and dashboards that empower businesses to make real-time, informed 
+  decisions. <br><br>
+  As I continue to expand my knowledge, I'm exploring cloud technologies, particularly Azure, to enhance data accessibility and scalability. My 
+  commitment to learning and innovation fuels my drive to provide data-driven solutions to any team I join.
+</p>
+
 <!-- Tech Stack Title -->
 <div id="user-content-toc">
   <ul align="center">
