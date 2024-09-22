@@ -49,14 +49,13 @@
 
 <!-- About Section Content -->
 <p align="left">
-  My journey into the world of data started with a passion for problem-solving and an enthusiasm for understanding how data drives decisions. 
-  Starting with SQL, I quickly discovered its power in crafting meaningful insights from raw data. As I delved deeper, I mastered the use of 
-  SQL Server for data management and storage strategies. <br><br>
-  My skills in SQL Server Integration Services (SSIS) allowed me to handle complex data integrations and transformations efficiently. Soon, I 
-  added Power BI to my toolkit, bringing data to life through dynamic reports and dashboards that empower businesses to make real-time, informed 
-  decisions. <br><br>
-  As I continue to expand my knowledge, I'm exploring cloud technologies, particularly Azure, to enhance data accessibility and scalability. My 
-  commitment to learning and innovation fuels my drive to provide data-driven solutions to any team I join.
+ My journey into the world of data started with a passion for problem-solving and an enthusiasm for understanding how data drives decisions. Starting with SQL, I quickly discovered its power in crafting meaningful insights from raw data. As I delved deeper, I became proficient in using SQL Server for data management and storage strategies.
+
+I began by developing my skills in data cleaning, ensuring that data is accurate and ready for analysis. This foundation allowed me to effectively manage and organize data through data warehousing, creating structured environments for efficient data storage and retrieval.
+
+Building on these skills, I utilized SQL Server Integration Services (SSIS) to handle complex data integrations and transformations efficiently. Soon, I added Power BI to my toolkit, bringing data to life through dynamic reports and dashboards that empower businesses to make real-time, informed decisions.
+
+As I continue to expand my knowledge, I’m exploring cloud technologies, particularly Azure, to enhance data accessibility and scalability. My commitment to learning and innovation fuels my drive to provide data-driven solutions to any team I join.
 </p>
 
 <!-- Tech Stack Title -->
