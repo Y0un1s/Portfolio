@@ -69,10 +69,6 @@
 <a href="https://www.microsoft.com/en-us/sql/"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F39D2B?logo=powerbi&logoColor=fff&style=flat"></a>
 <a href="https://code.visualstudio.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?&logo=visual-studio-code&logoColor=white"></a>
 <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white"></a>
-<a href="https://discordapp.com/"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&logo=discord&logoColor=white"></a>
-<a href="https://www.stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?&logo=stack-overflow&logoColor=white"></a>
-<a href="https://www.w3schools.com/"><img alt="W3Schools" src="https://img.shields.io/badge/W3Schools-%231E84D0.svg?&logo=w3schools&logoColor=white"></a>
-<a href="https://www.geeksforgeeks.org/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-%236495ED.svg?&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 <!-- Competitive Programming -->
