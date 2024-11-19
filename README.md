@@ -86,6 +86,8 @@
 <p>
 <a href="https://www.microsoft.com/en-us/sql/"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-27AE60?logo=mssql&logoColor=fff&style=flat"></a>
 <a href="https://www.microsoft.com/en-us/sql/"><img alt="SSIS" src="https://img.shields.io/badge/SSIS-29ABCA?logo=ssis&logoColor=fff&style=flat"></a>
+<a href="https://https://www.mysql.com/"><img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-29ABCA?logo=ssis&logoColor=fff&style=flat"></a>
+
 </p>
 
 <!-- Softwares & Other Tools -->
