@@ -110,9 +110,6 @@
 <a href="https://www.windows.com/"><img alt="Windows" src="https://img.shields.io/badge/Windows-%23008CBA.svg?&logo=windows&logoColor=white"></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 ## Projects
 ### [Northwind Data Solution](https://github.com/Y0un1s/Northwind-Data-Solution)
@@ -122,6 +119,11 @@
   </a>
 </div>
 <p align="center">Explore how I implemented ETL pipelines, Data Warehousing, and Analytics with Power BI for the Northwind dataset.</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 
 
 <!-- Connect with me -->
