@@ -101,7 +101,7 @@
 <p>
 <a href="https://leetcode.com/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=leetcode&logoColor=white"></a>
 <a href="https://www.hackerrank.com/"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&logo=hackerrank&logoColor=white"></a>
-<a href="https://sqlzoo.net/"><img alt="SQLZoo" src="https://img.shields.io/badge/SQLZoo-%23FFD700.svg?&logo=sqlzoo&logoColor=black"></a>
+<a href="https://365datascience.com/"><img alt="365datascience" src="https://img.shields.io/badge/SQLZoo-%23FFD700.svg?&logo=sqlzoo&logoColor=black"></a>
 </p>
 
 <!-- Operating Systems -->
