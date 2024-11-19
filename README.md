@@ -118,10 +118,11 @@
 ### [Northwind Data Solution](https://github.com/Y0un1s/Northwind-Data-Solution)
 <div align="center">
   <a href="https://github.com/Y0un1s/Northwind-Data-Solution">
-    <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Northwind Data Solution Thumbnail" width="400">
+    <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Northwind Data Solution GIF" width="150">
   </a>
 </div>
 <p align="center">Explore how I implemented ETL pipelines, Data Warehousing, and Analytics with Power BI for the Northwind dataset.</p>
+
 
 <!-- Connect with me -->
 <div id="user-content-toc" align="center">
