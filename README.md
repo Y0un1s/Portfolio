@@ -79,7 +79,7 @@ Linux · Agile development workflows
 - [The Legend of Python](https://www.credential.net/81dbc84a-e998-42f8-b09a-1fd2849f27fb#acc.0YVvBUKD) — Codedex (2025)
 - [Advanced SQL for Data Engineering](https://learn.365datascience.com/c/cf65be37e7) — 365 Data Science (2024)  
 - [Certificate of completion - Advanced SQL](https://learn.365datascience.com/c/fa09763044) — 365 Data Science (2024) 
-- [Certificate of completion - SQL](https://learn.365datascience.com/c/bd596b83c8) — 365 Data Science (2024) 
+- [Certificate of completion - SQL](https://learn.365datascience.com/certificates/CC-19BD41DBE3) — 365 Data Science (2024) 
 
 ---
 
