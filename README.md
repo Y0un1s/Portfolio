@@ -76,10 +76,10 @@ Linux · Agile development workflows
 - [SQL Associate](https://www.datacamp.com/certificate/SQA0017092171929) — DataCamp (2025)  
 - [SQL (Intermediate)](https://www.hackerrank.com/certificates/4a89ac7444bb) — HackerRank (2025)  
 - [Get Started with Python](https://coursera.org/share/71ea989bdc673ebd4458e4503e8e8098) — Google (2025)
-- [The Legend of Python](https://www.credential.net/81dbc84a-e998-42f8-b09a-1fd2849f27fb#acc.0YVvBUKD) — Codedex
+- [The Legend of Python](https://www.credential.net/81dbc84a-e998-42f8-b09a-1fd2849f27fb#acc.0YVvBUKD) — Codedex (2025)
 - [Advanced SQL for Data Engineering](https://learn.365datascience.com/c/cf65be37e7) — 365 Data Science (2024)  
-- [Certificate of completion - Advanced SQL](https://learn.365datascience.com/c/fa09763044) — 365 Data Science  
-- [Certificate of completion - SQL](https://learn.365datascience.com/c/bd596b83c8) — 365 Data Science
+- [Certificate of completion - Advanced SQL](https://learn.365datascience.com/c/fa09763044) — 365 Data Science (2024) 
+- [Certificate of completion - SQL](https://learn.365datascience.com/c/bd596b83c8) — 365 Data Science (2024) 
 
 ---
 
