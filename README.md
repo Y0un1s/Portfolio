@@ -138,9 +138,12 @@ Maintainable data warehouse for the Northwind dataset: modeling (conceptual → 
 - I focus on clean, queryable data for analysts: semantic views, precomputed KPIs, and simple access patterns (Athena / SQL / Power BI).
 
 ---
-
-## 🔗 Let's Connect
-
+<!-- Connect with me -->
+<div id="user-content-toc" align="center">
+  <ul>
+    <summary><h1 style="display: inline-block">Let's Connect</h1><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"></summary>
+  </ul>
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-younis-o" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="48" width="48" /></a>
   <a href="https://github.com/Y0un1s" target="_blank"><img src="https://simpleicons.org/icons/github.svg" alt="github" height="40" width="40" style="filter: invert(1);" /></a>
