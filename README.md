@@ -109,6 +109,35 @@ Production-grade serverless pipeline that ingests match data from the Riot Games
 
 ---
 
+---
+
+### [Sonic — Hybrid Cloud Analytics & Recommendation Platform for Spotify](https://github.com/Y0un1s/sonic-data-platform)  
+<div align="center">
+  <a href="https://github.com/Y0un1s/sonic-data-platform">
+    <img src="https://github.com/Y0un1s/sonic-data-platform/blob/main/assets/Diagram.png?raw=true" alt="Sonic Architecture Diagram" width="250">
+  </a>
+</div>
+
+**Tech stack:** Google Cloud Platform (Cloud Run), Microsoft Fabric, Apache Spark (PySpark), OneLake (Delta Lake), Power BI (Direct Lake), LightGBM, Annoy, Azure Key Vault, GCP Secret Manager, Python
+
+**Overview:**  
+Enterprise-grade hybrid cloud data platform that reimagines Spotify Wrapped as a year-round analytics and recommendation system. Sonic ingests user listening data at scale, processes it through a Lakehouse architecture, and delivers deep behavioral analytics and ML-driven recommendations via Power BI dashboards.
+
+**Key contributions:**
+- Designed a hybrid cloud architecture using GCP for OAuth ingestion and Microsoft Fabric for Lakehouse processing.
+- Implemented a strict Medallion architecture (Bronze, Silver, Gold) using PySpark and Delta tables.
+- Engineered a multi-app OAuth load-balancing strategy to overcome Spotify’s developer user cap.
+- Built a data enrichment bridge to recover deprecated audio features via external APIs.
+- Modeled analytics-ready star schemas optimized for BI consumption.
+- Integrated ML ranking and similarity search to solve cold-start recommendation scenarios.
+- Enabled near real-time analytics using Power BI Direct Lake.
+
+**Impact:**  
+Delivered a production-ready analytics platform that unifies data engineering, machine learning, and BI, providing continuous, on-demand insights instead of static, end-of-year reports.
+
+---
+
+
 ### [Northwind ETL & Analytics — Data Warehouse](https://github.com/Y0un1s/Northwind-Data-Solution)
 <div align="center">
   <a href="https://github.com/Y0un1s/Northwind-Data-Solution">
