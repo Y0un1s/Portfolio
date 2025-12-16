@@ -114,7 +114,7 @@ Production-grade serverless pipeline that ingests match data from the Riot Games
 ### [Sonic — Hybrid Cloud Analytics & Recommendation Platform for Spotify](https://github.com/Y0un1s/sonic-data-platform)  
 <div align="center">
   <a href="https://github.com/Y0un1s/sonic-data-platform">
-    <img src="https://github.com/Y0un1s/sonic-data-platform/blob/main/assets/Diagram.png?raw=true" alt="Sonic Architecture Diagram" width="250">
+    <img src="https://github.com/Y0un1s/sonic-data-platform/blob/master/assets/Diagram.png?raw=true" alt="Sonic Architecture Diagram" width="250">
   </a>
 </div>
 
